@@ -1,7 +1,7 @@
 Design
 ======
 
-Piras was
+This section contains all that PIRAS is made of, ranging from the core technologies used, to modules that make up the system.
 
 .. toctree::
    :maxdepth: 2

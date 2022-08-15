@@ -27,6 +27,10 @@ release = '0.1'
 
 # -- General configuration ---------------------------------------------------
 
+# Add custom css file to override max-width property
+def setup(app):
+    app.add_css_file("/source/_static/css/style.css")
+
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
