@@ -3,12 +3,10 @@ Third Party Services
 
 The following are third party services powering PIRAS:
 
-+-------------------------+-----------+-----------+-----------+
-|| Header row, column 1   || Header 2 || Header 3 || Header 4 |
-|| (header rows optional) ||          ||          ||          |
-+=========================+===========+===========+===========+
-| body row 1, column 1    | column 2  | column 3  | column 4  |
-+-------------------------+-----------+-----------+-----------+
-| body row 2              | ...       | ...       |           |
-+-------------------------+-----------+-----------+-----------+
-
+- NIMC for NIN
+- Remita (payment)
+- Paydirect (Bank Payment)
+- NIBSS (Bank Payment)
+- Nomba formerly Kudi (online payment)
+- MTN mobile money (payment)
+- Moniefy (Payment)
