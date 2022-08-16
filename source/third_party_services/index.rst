@@ -1,3 +1,5 @@
+.. _thirdPartyAPIs:
+
 Third Party Services
 ====================
 

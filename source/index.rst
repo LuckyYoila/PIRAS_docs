@@ -25,7 +25,10 @@ Welcome to the official Documentation of Plateau State Integrated Revenue Admini
 
    Third Party Services <third_party_services/index>
    
+.. toctree::
+   :maxdepth: 2
 
+   Contributors <contributors/index>
 
 Indices and tables
 ==================
